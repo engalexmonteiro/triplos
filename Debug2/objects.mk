@@ -4,5 +4,5 @@
 
 USER_OBJS :=
 
-LIBS := -lgsl -lconfuse -lgslcblas -lbluetooth -liw -lm -lacpi -lacpi
+LIBS := -lgsl -lconfuse -lgslcblas -lbluetooth -liw -lm -lacpi -lacpi -mysqlclient
 
