@@ -1,4 +1,5 @@
 # TriploS
+O TriploS é uma ferramenta de detecção e avaliação para redes sem fio IEEE 802.11. Esta ferramenta permite coletar informações como nível de sinal, qualidade, MAC Addresse e SSID, além de fornecer métricas de avaliação para seleção do melhor canal disponível. 
 
 Instalação
 
