@@ -2,10 +2,10 @@ apt-get install libgsl0-dev libconfuse-dev libbluetooth-dev libiw-dev libacpi-de
 
 cp -r ./triplos $HOME
 cp -r ./triplos/triplos /etc
-cd ./Debug
+cd ./Debug2
 make clean
 make
 cd ..
-cp ./Debug/triplos /bin
+cp ./Debug2/triplos /bin
 
 
